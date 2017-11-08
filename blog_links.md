@@ -19,5 +19,13 @@
 - **Powering UberEATS with React Native and Uber Engineering** from `UberEATS`    
   https://eng.uber.com/ubereats-react-native/   
   How UberEATS engineered thier Food delivery app using React Native
+  
+- **Using React Native: One Year Later** from `Discord`   
+  https://blog.discordapp.com/using-react-native-one-year-later-91fd5e949933    
+  Usability and performace specification about React Native   
+  
+- **Building the Gyroscope App with React Native** from `Gyroscope`
+  https://blog.gyrosco.pe/building-the-app-1dac1a97d253   
+  Atricle about developement of Health tracking iOS app
 
   
