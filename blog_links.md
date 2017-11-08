@@ -10,6 +10,14 @@
   
 - **How We Built Our React Native App**  from `Housing.com`   
   https://medium.com/engineering-housing/how-we-built-our-react-native-app-3380a33811ac/  
-  A very high-level experience about React Native development and tools.
+  A very high-level experience about React Native development and tools.    
+  
+- **React Native at WalmartLabs** from `WalmartLabs`    
+  https://medium.com/walmartlabs/react-native-at-walmartlabs-cdd140589560   
+  An experiment using React native in WalmartLabs   
+
+- **Powering UberEATS with React Native and Uber Engineering** from `UberEATS`    
+  https://eng.uber.com/ubereats-react-native/   
+  How UberEATS engineered thier Food delivery app using React Native
 
   
