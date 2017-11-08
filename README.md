@@ -10,3 +10,4 @@ Resources and tutorials links I have collected on React Native, meant to be a co
 
 #### Resources
 - [Blogs and Articles](./blog_links.md)
+- [Videos](./video_links.md)
