@@ -4,10 +4,5 @@ Resources and tutorials links I have collected on React Native, meant to be a co
 ## Table of Contents
 
 #### Getting Started
-- [Basic Concepts and Overviews](./basic-concepts.md)
-- [Community Resources](./community-resources.md)
-- [Javascript Resources](./javascript-resources.md)
-- [Git Resources and Tutorials](./git-resources.md)
-- [Node.js and NPM](./node-js-and-npm.md)
-- [Webpack Tutorials](./webpack-tutorials.md)
-- [Boilerplates and Starter Kits](./boilerplates-and-starter-kits.md)
+- [Introduction to React Native](https://facebook.github.io/react-native/)
+- [Basic concepts](https://facebook.github.io/react-native/docs/tutorial.html)
