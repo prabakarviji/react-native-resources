@@ -1,5 +1,5 @@
 # React Native Resources
-Resources and tutorials links I have collected on React Native, meant to be a collection of blogs,videos for people wanat to learn about the React Native. 
+Resources and tutorials links I have collected on React Native, meant to be a collection of blogs,videos for people want to learn about the React Native. 
 
 ## Table of Contents
 
