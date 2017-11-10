@@ -28,4 +28,7 @@
   https://blog.gyrosco.pe/building-the-app-1dac1a97d253   
   Atricle about developement of Health tracking iOS app
 
+- **React Native vs Real Native Apps** from `Weblab Technology`   
+  https://codeburst.io/react-native-vs-real-native-apps-ad890986f1f   
+  CPU, GPU, and memory usage comparision between React Native and Swift iOS apps
   
