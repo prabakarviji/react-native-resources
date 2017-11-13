@@ -15,3 +15,11 @@
 - **CodePush**    
   https://microsoft.github.io/code-push/index.html    
   A cloud service to deploy mobile app updates directly to their users’ devices
+  
+- **Sentry**    
+  https://docs.sentry.io/clients/react-native/    
+  An error tracking tool to monitor and fix crashes in real time    
+  
+- **Fabric**
+  https://github.com/corymsmith/react-native-fabric   
+  A set of tools for crash reporting, analytics, heatmaps, deep linking etc,.
