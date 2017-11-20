@@ -30,5 +30,9 @@
 
 - **React Native vs Real Native Apps** from `Weblab Technology`   
   https://codeburst.io/react-native-vs-real-native-apps-ad890986f1f   
-  CPU, GPU, and memory usage comparision between React Native and Swift iOS apps
+  CPU, GPU, and memory usage comparision between React Native and Swift iOS apps    
+  
+- **How HBO’s Silicon Valley built “Not Hotdog” with mobile TensorFlow, Keras & React Native** from `HBO’s Silicon Valley`    
+  https://medium.com/@timanglade/how-hbos-silicon-valley-built-not-hotdog-with-mobile-tensorflow-keras-react-native-ef03260747f3    
+  A real AI app that identifies hotdogs — and not hotdogs
   
