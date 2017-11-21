@@ -20,7 +20,8 @@ Resources and tutorials links We have collected on React Native, meant to be a c
 
 ### License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the LICENSE file for details.    
+
 
 
 
