@@ -34,5 +34,9 @@
   
 - **How HBO’s Silicon Valley built “Not Hotdog” with mobile TensorFlow, Keras & React Native** from `HBO’s Silicon Valley`    
   https://medium.com/@timanglade/how-hbos-silicon-valley-built-not-hotdog-with-mobile-tensorflow-keras-react-native-ef03260747f3    
-  A real AI app that identifies hotdogs — and not hotdogs
+  A real AI app that identifies hotdogs — and not hotdogs   
+  
+- **After building my first React Native app, I’m now convinced it’s the future**
+  https://medium.freecodecamp.org/after-building-my-first-react-native-app-im-now-convinced-it-s-the-future-d3c5e74f8fa8    
+  A basic mobile app to about styling, navigation in React Native
   
