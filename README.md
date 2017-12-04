@@ -16,6 +16,7 @@ Resources and tutorials links We have collected on React Native, meant to be a c
 - [Blogs and Articles](./blog_links.md)
 - [Videos](./video_links.md)    
 - [Developer Tools](./tools_links.md)
+- [Books](./books.md)   
 
 
 ### License
